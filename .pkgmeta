@@ -1,0 +1,8 @@
+package-as: DataStore_Stats
+
+move-folders:
+ DataStore_Stats/DataStore_Stats: DataStore_Stats
+
+ignore:
+ - LICENCE.md
+ - README.md
