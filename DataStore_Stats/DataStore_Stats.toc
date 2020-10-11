@@ -2,7 +2,7 @@
 ## Title: DataStore_Stats
 ## Notes: Stores information about character statistics
 ## Author: Thaoky (EU-Marécages de Zangar)
-## Version: 9.0.1
+## Version: @project-version@
 ## Dependencies: DataStore
 ## OptionalDeps: Ace3
 ## SavedVariables: DataStore_StatsDB
